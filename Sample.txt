@@ -1,2 +1,3 @@
 Hi This is my sample text file....
 I am going to start in the process of learning github
+I want to edit and push and know how the work is going on
